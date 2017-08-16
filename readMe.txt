@@ -1,0 +1,1 @@
+Javascript Basics lesson, duplicate webpage in provided image.
